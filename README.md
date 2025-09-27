@@ -74,5 +74,5 @@ A selection of projects demonstrating hands-on skill and end-to-end system desig
 | Platform | Details |
 | :--- | :--- |
 | **Email** | **Jostinjaison@gmail.com** |
-| **LinkedIn** | [**https://www.linkedin.com/in/jostin-jaison/**] |
+| **LinkedIn** | **https://www.linkedin.com/in/jostin-jaison/**|
 | **GitHub** | **https://github.com/Jostin-arch** |
